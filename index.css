@@ -1,0 +1,78 @@
+
+#fimg{
+    width: 40rem;
+    height: 30rem;
+    
+}
+#img2{
+    width: 40rem;
+    height: 30rem;
+}
+#imgdiv{
+    display: inline-flex;
+    flex-wrap: wrap;
+    width: 100%;
+    padding-left:2rem;
+}
+.card{
+    display: inline-flex;
+    margin-left:3%;
+}
+h1{
+    font-size:1in;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: aqua;
+    text-align: center;
+    background-color:black;
+
+}
+footer{
+    text-align: center;
+    list-style: none;
+    border: solid 1px black;
+}
+label{
+width: 80px;
+display: inline-block;
+padding-top: 10px;
+margin-left: 20px;
+}
+#formdiv{
+    text-align: center;
+    background-image: linear-gradient(to right,rgb(255, 0, 0),rgb(9, 107, 255),rgb(9, 255, 0));
+    width:100%;
+    height:350px;
+    color: white;
+    border-radius: 30px;
+
+    
+}
+
+#ligrad{
+    background-image: linear-gradient(to right,yellow,red,blue,yellow);
+    width:100%;
+    height:50px;
+    position: relative;
+    color: white;
+    border-radius: 50px;
+    border: solid black 2px;
+
+    
+}
+#hgf3{
+    margin-left: 5%;
+}
+#taid{
+    border-radius: 30px;
+    text-align:center;
+    background-image: linear-gradient(to right,red,blue,yellow);
+    width:50%;
+    height:350px;
+    color: white;
+}
+#dfs23{
+    margin-left:5%;
+}
+input{
+    border-radius: 15px;
+}
